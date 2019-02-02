@@ -1,3 +1,4 @@
 public class vodovod {
   public String ime;
+  public String prezime;
 }
